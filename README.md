@@ -13,9 +13,13 @@ European Outlet: The interface of the European power supply.
 
 Power Adapter: The adapter that makes the US plug compatible with the European outlet.
 
-How It Works in Programming
+How It Works in Programming:
+
 In programming, the Adapter Pattern involves three main components:
 
 Client: The system that wants to use an incompatible interface.
+
 Adaptee: The existing interface that needs to be adapted.
+
 Adapter: The bridge that makes the Adaptee’s interface compatible with the Client’s interface.
+
