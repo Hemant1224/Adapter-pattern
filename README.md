@@ -8,8 +8,11 @@ Imagine you have an electrical appliance from the United States, which has a plu
 In this analogy:
 
 US Plug: The interface of your appliance.
+
 European Outlet: The interface of the European power supply.
+
 Power Adapter: The adapter that makes the US plug compatible with the European outlet.
+
 How It Works in Programming
 In programming, the Adapter Pattern involves three main components:
 
